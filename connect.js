@@ -4,7 +4,7 @@
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name ESHUNVRDIE-MD
+* @project_name EshuNvrDieMD
 * @authors eshan kawishka & eshubot-team(eshueens) <https://github.com/Eshankawi>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/Eshankawi/EshuNvrDie-MD>
