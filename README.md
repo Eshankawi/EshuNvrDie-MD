@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATHMD-white)](https://github.com/prabathLK/PRABATHMD/fork)
+[![FORK PRABATH-MD](https://github.com/Eshankawi/EshuNvrDie-MD/fork)](https://github.com/Eshankawi/EshuNvrDie-MD/fork)
 
  ---
  
