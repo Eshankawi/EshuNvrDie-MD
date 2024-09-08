@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/d770e9828efe3c1311743.jpg">
-    <img alt="EshuNvrDie-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="EshuNvrDie-md" height="300" src="https://telegra.ph/file/d770e9828efe3c1311743.jpg">
     
   
   </a>
