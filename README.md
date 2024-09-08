@@ -51,7 +51,7 @@
 ## 👑 **`EshuNvrDie-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/prabathLK/"><img src="https://telegra.ph/file/d770e9828efe3c1311743.jpg" width=80 height=80></a>   
 
 ---
 
