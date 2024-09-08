@@ -55,13 +55,13 @@
 
 ---
 
-|**[`EshuNvrDie`](https://github.com/prabathLK)**|
+|**[`EshuNvrDie`](https://github.com/Eshankawi/EshuNvrDie-MD?tab=readme-ov-file)**|
 
 ---
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`EshuNvrDie`](https://github.com/SACHIBOT)**|
+|**[`EshuNvrDie`](https://github.com/Eshankawi/EshuNvrDie-MD?tab=readme-ov-file)**|
 
 ---
 
