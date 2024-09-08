@@ -4,13 +4,13 @@
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name EshuNvrDie-MD
-* @authors eeshan kawishka & eshubot-team(eshueens) <https://github.com/Eshankawi/EshuNvrDie-MD>
+* @project_name ESHUNVRDIE-MD
+* @authors eshan kawishka & eshubot-team(eshueens) <https://github.com/Eshankawi>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/Eshankawi/EshuNvrDie-MD>
 * @version 2.1.2
 
-© 2023 Eshan kawishka, Eshu-BOT. All rights reserved.
+© 2023 Eshan kawishka, ESHU-BOT. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
