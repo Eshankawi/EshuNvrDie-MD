@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://imgur.com/a/9Tg36UQ">
     <img alt="eshunvrdie-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
