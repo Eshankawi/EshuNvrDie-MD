@@ -4,7 +4,7 @@
   "description": "A WhatsApp bot project with various features and integrations.",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name PRABATHMD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name EshuNvrDieMD",
     "stop": "pm2 stop EshuNvrDieMD",
     "restart": "pm2 restart EshuNvrDieMD"
   },
@@ -107,7 +107,7 @@
   "author": "Eshan kawishka & EshuNvrDieMD",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eshankawi/EshuNvrDie-MD/fork"
+    "url": "https://github.com/Eshankawi/EshuNvrDie-MD"
   },
   "keywords": [
     "whatsapp",
