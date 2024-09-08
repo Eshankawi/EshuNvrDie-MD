@@ -71,6 +71,6 @@
 <br>
 <br>
 
-`Released date:- 2023.08.24`
+`Released date:- 2024.09.08`
 <br>
-`latest updated date:- 2024.09.07`
+`latest updated date:- 2024.09.08`
