@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## EshuNvrDie-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="eshunvrdie-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
   </a>
@@ -48,7 +48,7 @@
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`EshuNvrDie-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
