@@ -37,7 +37,7 @@
     "path": "^0.12.7",
     "form-data": "^4.0.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "Sachibot-Spotifydl": "github:SACHIBOT/Sachibot-Spotifydl#master",
+    "Eshubot-Spotifydl": "github:Eshankawi/eshankawi-Spotifydl#master",
     "ffmpeg": "^0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "crypto-js": "latest",
