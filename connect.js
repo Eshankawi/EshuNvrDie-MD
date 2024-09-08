@@ -5,9 +5,9 @@
 
 
 * @project_name EshuNvrDie-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
+* @authors eeshan kawishka & eshubot-team(eshueens) <https://github.com/Eshankawi/EshuNvrDie-MD>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/Eshankawi/EshuNvrDie-MD?tab=readme-ov-file>
+* @link <https://github.com/Eshankawi/EshuNvrDie-MD>
 * @version 2.1.2
 
 © 2023 Eshan kawishka, Eshu-BOT. All rights reserved.
