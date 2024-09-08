@@ -4,13 +4,13 @@
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name PRABATH-MD
+* @project_name EshuNvrDie-MD
 * @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATHMD>
+* @link <https://github.com/Eshankawi/EshuNvrDie-MD?tab=readme-ov-file>
 * @version 2.1.2
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2023 Eshan kawishka, Eshu-BOT. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
