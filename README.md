@@ -40,18 +40,18 @@
 
  ---
  
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
+<a href="https://eshunvrdie-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
 
-<a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/eshankawishka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
 ## 👑 **`EshuNvrDie-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://telegra.ph/file/d770e9828efe3c1311743.jpg" width=80 height=80></a>   
+   <a href="https://github.com/Eshankawi/EshuNvrDie-MD"><img src="https://telegra.ph/file/d770e9828efe3c1311743.jpg" width=80 height=80></a>   
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://telegra.ph/file/d770e9828efe3c1311743.jpg" width=80 height=80></a> 
+<a href="https://github.com/Eshankawi/EshuNvrDie-MD"><img src="https://telegra.ph/file/d770e9828efe3c1311743.jpg" width=80 height=80></a> 
 
 |**[`EshuNvrDie`](https://github.com/Eshankawi/EshuNvrDie-MD?tab=readme-ov-file)**|
 
