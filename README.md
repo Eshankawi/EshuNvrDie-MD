@@ -59,7 +59,7 @@
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://github.com/SACHIBOT"><img src="https://telegra.ph/file/d770e9828efe3c1311743.jpg" width=80 height=80></a> 
 
 |**[`EshuNvrDie`](https://github.com/Eshankawi/EshuNvrDie-MD?tab=readme-ov-file)**|
 
